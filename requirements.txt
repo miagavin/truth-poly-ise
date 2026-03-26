@@ -1,0 +1,7 @@
+anthropic
+curl_cffi
+loguru
+py-clob-client
+python-dotenv
+requests
+truthbrush
